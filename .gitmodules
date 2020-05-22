@@ -1,0 +1,237 @@
+[submodule "advtrains"]
+	path = advtrains
+	url = ./advtrains
+[submodule "advboats"]
+	path = advboats
+	url = ./advboats
+[submodule "advtrains_freight_train"]
+	path = advtrains_freight_train
+	url = ./advtrains_freight_train
+[submodule "advtrains_platform"]
+	path = advtrains_platform
+	url = ./advtrains_platform/
+[submodule "apartment"]
+	path = apartment
+	url = ./apartment
+[submodule "areas"]
+	path = areas
+	url = ./areas
+[submodule "atm"]
+	path = atm
+	url = ./atm
+[submodule "auth_export"]
+	path = auth_export
+	url = ./auth_export
+[submodule "bakedclay"]
+	path = bakedclay
+	url = ./bakedclay
+[submodule "banish"]
+	path = banish
+	url = ./banish
+[submodule "beerchat"]
+	path = beerchat
+	url = ./beerchat
+[submodule "bike"]
+	path = bike
+	url = ./bike
+[submodule "billboard"]
+	path = billboard
+	url = ./billboard
+[submodule "bonemeal"]
+	path = bonemeal
+	url = ./bonemeal
+[submodule "c_doors"]
+	path = c_doors
+	url = ./c_doors
+[submodule "cottages"]
+	path = cottages
+	url = ./cottages
+[submodule "craftguide"]
+	path = craftguide
+	url = ./craftguide
+[submodule "currency"]
+	path = currency
+	url = ./currency
+[submodule "digtron"]
+	path = digtron
+	url = ./digtron
+[submodule "display_modpack"]
+	path = display_modpack
+	url = ./display_modpack
+[submodule "drawers"]
+	path = drawers
+	url = ./drawers/
+[submodule "easteregg"]
+	path = easteregg
+	url = ./easteregg
+[submodule "ehlphabet"]
+	path = ehlphabet
+	url = ./ehlphabet
+[submodule "elevator"]
+	path = elevator
+	url = ./elevator
+[submodule "engrave"]
+	path = engrave
+	url = ./engrave
+[submodule "ethereal"]
+	path = ethereal
+	url = ./ethereal
+[submodule "farebox"]
+	path = farebox
+	url = ./farebox
+[submodule "farming"]
+	path = farming
+	url = ./farming
+[submodule "feedlot"]
+	path = feedlot
+	url = ./feedlot
+[submodule "freezer"]
+	path = freezer
+	url = ./freezer
+[submodule "gates"]
+	path = gates
+	url = ./gates
+[submodule "hangglider"]
+	path = hangglider
+	url = ./hangglider
+[submodule "hiking"]
+	path = hiking
+	url = ./hiking
+[submodule "intllib"]
+	path = intllib
+	url = ./intllib
+[submodule "jre_e231"]
+	path = jre_e231
+	url = ./jre_e231
+[submodule "kebab"]
+	path = kebab
+	url = ./kebab
+[submodule "ldm32"]
+	path = ldm32
+	url = ./ldm32
+[submodule "linetrack"]
+	path = linetrack
+	url = ./linetrack
+[submodule "digilines"]
+	path = digilines
+	url = ./digilines
+[submodule "lrfurn"]
+	path = lrfurn
+	url = ./lrfurn
+[submodule "mail"]
+	path = mail
+	url = ./mail
+[submodule "mailbox"]
+	path = mailbox
+	url = ./mailbox
+[submodule "markers"]
+	path = markers
+	url = ./markers
+[submodule "mesecons"]
+	path = mesecons
+	url = ./mesecons
+[submodule "minetest_errata"]
+	path = minetest_errata
+	url = ./minetest_errata
+[submodule "minetest_hbhunger"]
+	path = minetest_hbhunger
+	url = ./minetest_hbhunger
+[submodule "minetest_hudbars"]
+	path = minetest_hudbars
+	url = ./minetest_hudbars
+[submodule "minetest_itemframes"]
+	path = minetest_itemframes
+	url = ./minetest_itemframes
+[submodule "minetest_worldedit"]
+	path = minetest_worldedit
+	url = ./minetest_worldedit
+[submodule "mob_horse"]
+	path = mob_horse
+	url = ./mob_horse
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = ./mobs_animal
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = ./mobs_redo
+[submodule "mobs_water"]
+	path = mobs_water
+	url = ./mobs_water
+[submodule "moreblocks"]
+	path = moreblocks
+	url = ./moreblocks
+[submodule "morelights"]
+	path = morelights
+	url = ./morelights
+[submodule "moreores"]
+	path = moreores
+	url = ./moreores
+[submodule "my_arcade"]
+	path = my_arcade
+	url = ./my_arcade
+[submodule "mymillwork"]
+	path = mymillwork
+	url = ./mymillwork
+[submodule "pathv7"]
+	path = pathv7
+	url = ./pathv7
+[submodule "pipeworks"]
+	path = pipeworks
+	url = ./pipeworks
+[submodule "pkarcs"]
+	path = pkarcs
+	url = ./pkarcs
+[submodule "places"]
+	path = places
+	url = ./places
+[submodule "railroad_paraphernalia"]
+	path = railroad_paraphernalia
+	url = ./railroad_paraphernalia
+[submodule "realestate"]
+	path = realestate
+	url = ./realestate
+[submodule "si_frames"]
+	path = si_frames
+	url = ./si_frames
+[submodule "signs_lib"]
+	path = signs_lib
+	url = ./signs_lib
+[submodule "skinsdb"]
+	path = skinsdb
+	url = ./skinsdb
+[submodule "smartshop"]
+	path = smartshop
+	url = ./smartshop
+[submodule "technic"]
+	path = technic
+	url = ./technic
+[submodule "teleport_potion"]
+	path = teleport_potion
+	url = ./teleport_potion
+[submodule "textline"]
+	path = textline
+	url = ./textline
+[submodule "tfl_s7_stock"]
+	path = tfl_s7_stock
+	url = ./tfl_s7_stock
+[submodule "towercrane"]
+	path = towercrane
+	url = ./towercrane
+[submodule "trainblocks"]
+	path = trainblocks
+	url = ./trainblocks
+[submodule "trash_can"]
+	path = trash_can
+	url = ./trash_can
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = ./unified_inventory
+[submodule "walkway"]
+	path = walkway
+	url = ./walkway
+[submodule "wine"]
+	path = wine
+	url = ./wine
+[submodule "xban2"]
+	path = xban2
+	url = ./xban2
