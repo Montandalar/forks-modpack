@@ -1,237 +1,237 @@
-[submodule "advtrains"]
-	path = advtrains
-	url = ./advtrains
 [submodule "advboats"]
 	path = advboats
-	url = ./advboats
+	url = git://git.gpcf.eu/advboats.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
 [submodule "advtrains_freight_train"]
 	path = advtrains_freight_train
-	url = ./advtrains_freight_train
+	url = https://github.com/h-v-smacker/advtrains_freight_train
 [submodule "advtrains_platform"]
 	path = advtrains_platform
-	url = ./advtrains_platform/
+	url = https://git.bananach.space/advtrains_platform.git
 [submodule "apartment"]
 	path = apartment
-	url = ./apartment
+	url = https://git.bananach.space/apartment.git
 [submodule "areas"]
 	path = areas
-	url = ./areas
+	url = https://github.com/ShadowNinja/areas
 [submodule "atm"]
 	path = atm
-	url = ./atm
+	url = https://git.bananach.space/atm.git
 [submodule "auth_export"]
 	path = auth_export
-	url = ./auth_export
+	url = https://git.bananach.space/auth_export.git
 [submodule "bakedclay"]
 	path = bakedclay
-	url = ./bakedclay
+	url = https://notabug.org/TenPlus1/bakedclay
 [submodule "banish"]
 	path = banish
-	url = ./banish
+	url = https://git.bananach.space/banish.git
 [submodule "beerchat"]
 	path = beerchat
-	url = ./beerchat
+	url = https://git.bananach.space/beerchat.git
 [submodule "bike"]
 	path = bike
-	url = ./bike
+	url = https://gitlab.com/h2mm/bike
 [submodule "billboard"]
 	path = billboard
-	url = ./billboard
+	url = https://git.bananach.space/billboard.git
 [submodule "bonemeal"]
 	path = bonemeal
-	url = ./bonemeal
+	url = https://gitlab.com/Felfa/bonemeal
 [submodule "c_doors"]
 	path = c_doors
-	url = ./c_doors
+	url = https://github.com/h-v-smacker/c_doors
 [submodule "cottages"]
 	path = cottages
-	url = ./cottages
+	url = https://github.com/h-v-smacker/cottages
 [submodule "craftguide"]
 	path = craftguide
-	url = ./craftguide
+	url = https://github.com/minetest-mods/craftguide
 [submodule "currency"]
 	path = currency
-	url = ./currency
+	url = https://git.bananach.space/currency.git/
+[submodule "digilines"]
+	path = minetest-mod-digilines
+	url = https://github.com/Jeija/minetest-mod-digilines.git
 [submodule "digtron"]
 	path = digtron
-	url = ./digtron
+	url = https://github.com/h-v-smacker/digtron
 [submodule "display_modpack"]
 	path = display_modpack
-	url = ./display_modpack
+	url = git://git.gpcf.eu/display_modpack.git
 [submodule "drawers"]
-	path = drawers
-	url = ./drawers/
+	path = drawers/
+	url = http://git.linux-forks.de/drawers/
 [submodule "easteregg"]
 	path = easteregg
-	url = ./easteregg
+	url = https://gitlab.com/h2mm/easteregg
 [submodule "ehlphabet"]
 	path = ehlphabet
-	url = ./ehlphabet
+	url = https://git.bananach.space/ehlphabet.git/
 [submodule "elevator"]
 	path = elevator
-	url = ./elevator
+	url = https://git.bananach.space/elevator.git/
 [submodule "engrave"]
 	path = engrave
-	url = ./engrave
+	url = https://github.com/orwell96/engrave
 [submodule "ethereal"]
 	path = ethereal
-	url = ./ethereal
+	url = https://gitlab.com/Felfa/ethereal
 [submodule "farebox"]
-	path = farebox
-	url = ./farebox
+	path = farebox/
+	url = http://git.linux-forks.de/farebox/
 [submodule "farming"]
 	path = farming
-	url = ./farming
+	url = https://gitlab.com/Felfa/farming
 [submodule "feedlot"]
 	path = feedlot
-	url = ./feedlot
+	url = https://git.bananach.space/feedlot.git
 [submodule "freezer"]
-	path = freezer
-	url = ./freezer
+	path = freezer/
+	url = http://git.linux-forks.de/freezer/
 [submodule "gates"]
 	path = gates
-	url = ./gates
+	url = https://bitbucket.org/kingarthursteam/gates.git
 [submodule "hangglider"]
 	path = hangglider
-	url = ./hangglider
+	url = https://git.bananach.space/hangglider.git
 [submodule "hiking"]
 	path = hiking
-	url = ./hiking
+	url = https://gitlab.com/h2mm/hiking
 [submodule "intllib"]
-	path = intllib
-	url = ./intllib
+	path = intllib/
+	url = https://github.com/minetest-mods/intllib/
 [submodule "jre_e231"]
-	path = jre_e231
-	url = ./jre_e231
+	path = JR_E231series_modpack
+	url = https://git.bananach.space/JR_E231series_modpack.git
 [submodule "kebab"]
 	path = kebab
-	url = ./kebab
+	url = git://git.gpcf.eu/kebab.git
 [submodule "ldm32"]
 	path = ldm32
-	url = ./ldm32
+	url = https://github.com/laza83/ldm32
 [submodule "linetrack"]
 	path = linetrack
-	url = ./linetrack
-[submodule "digilines"]
-	path = digilines
-	url = ./digilines
+	url = https://git.bananach.space/linetrack.git/
 [submodule "lrfurn"]
 	path = lrfurn
-	url = ./lrfurn
+	url = https://github.com/thefamilygrog66/lrfurn
 [submodule "mail"]
-	path = mail
-	url = ./mail
+	path = mail/
+	url = https://cheapiesystems.com/git/mail/
 [submodule "mailbox"]
 	path = mailbox
-	url = ./mailbox
+	url = git://git.gpcf.eu/mailbox
 [submodule "markers"]
 	path = markers
-	url = ./markers
+	url = git://git.gpcf.eu/markers
 [submodule "mesecons"]
 	path = mesecons
-	url = ./mesecons
+	url = https://github.com/minetest-mods/mesecons.git
 [submodule "minetest_errata"]
 	path = minetest_errata
-	url = ./minetest_errata
+	url = https://github.com/h-v-smacker/minetest_errata
 [submodule "minetest_hbhunger"]
 	path = minetest_hbhunger
-	url = ./minetest_hbhunger
+	url = http://repo.or.cz/minetest_hbhunger.git
 [submodule "minetest_hudbars"]
 	path = minetest_hudbars
-	url = ./minetest_hudbars
+	url = http://repo.or.cz/minetest_hudbars.git
 [submodule "minetest_itemframes"]
-	path = minetest_itemframes
-	url = ./minetest_itemframes
+	path = minetest-itemframes
+	url = https://github.com/Zeg9/minetest-itemframes
 [submodule "minetest_worldedit"]
-	path = minetest_worldedit
-	url = ./minetest_worldedit
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
 [submodule "mob_horse"]
 	path = mob_horse
-	url = ./mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = ./mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = ./mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo
 [submodule "mobs_water"]
 	path = mobs_water
-	url = ./mobs_water
+	url = https://github.com/R-0ne/mobs_water
 [submodule "moreblocks"]
 	path = moreblocks
-	url = ./moreblocks
+	url = https://git.bananach.space/moreblocks.git/
 [submodule "morelights"]
 	path = morelights
-	url = ./morelights
+	url = https://github.com/h-v-smacker/morelights
 [submodule "moreores"]
 	path = moreores
-	url = ./moreores
+	url = https://github.com/minetest-mods/moreores
 [submodule "my_arcade"]
-	path = my_arcade
-	url = ./my_arcade
+	path = myArcade/
+	url = https://github.com/Ferk/myArcade/
 [submodule "mymillwork"]
 	path = mymillwork
-	url = ./mymillwork
+	url = https://github.com/laza83/mymillwork
 [submodule "pathv7"]
 	path = pathv7
-	url = ./pathv7
+	url = https://github.com/paramat/pathv7
 [submodule "pipeworks"]
-	path = pipeworks
-	url = ./pipeworks
+	path = pipeworks/
+	url = https://github.com/Montandalar/pipeworks/
 [submodule "pkarcs"]
 	path = pkarcs
-	url = ./pkarcs
+	url = https://github.com/h-v-smacker/pkarcs
 [submodule "places"]
 	path = places
-	url = ./places
+	url = https://git.bananach.space/places.git/
 [submodule "railroad_paraphernalia"]
 	path = railroad_paraphernalia
-	url = ./railroad_paraphernalia
+	url = https://github.com/h-v-smacker/railroad_paraphernalia
 [submodule "realestate"]
 	path = realestate
-	url = ./realestate
+	url = git://git.gpcf.eu/realestate.git
 [submodule "si_frames"]
-	path = si_frames
-	url = ./si_frames
+	path = si_frames/
+	url = https://github.com/h-v-smacker/si_frames/
 [submodule "signs_lib"]
-	path = signs_lib
-	url = ./signs_lib
+	path = signs
+	url = git://git.gpcf.eu/signs.git
 [submodule "skinsdb"]
 	path = skinsdb
-	url = ./skinsdb
+	url = https://github.com/minetest-mods/skinsdb
 [submodule "smartshop"]
 	path = smartshop
-	url = ./smartshop
+	url = https://git.bananach.space/smartshop.git/
 [submodule "technic"]
-	path = technic
-	url = ./technic
+	path = technic/
+	url = https://github.com/Montandalar/technic/
 [submodule "teleport_potion"]
 	path = teleport_potion
-	url = ./teleport_potion
+	url = https://notabug.org/TenPlus1/teleport_potion
 [submodule "textline"]
 	path = textline
-	url = ./textline
+	url = https://github.com/gbl08ma/textline
 [submodule "tfl_s7_stock"]
-	path = tfl_s7_stock
-	url = ./tfl_s7_stock
+	path = TfL_S7stock_modpack/
+	url = https://github.com/Mainote/TfL_S7stock_modpack/
 [submodule "towercrane"]
 	path = towercrane
-	url = ./towercrane
+	url = https://github.com/minetest-mods/towercrane
 [submodule "trainblocks"]
-	path = trainblocks
-	url = ./trainblocks
+	path = trainblocks_bc
+	url = https://github.com/maxxmodding/trainblocks_bc
 [submodule "trash_can"]
 	path = trash_can
-	url = ./trash_can
+	url = https://github.com/minetest-mods/trash_can.git
 [submodule "unified_inventory"]
 	path = unified_inventory
-	url = ./unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
 [submodule "walkway"]
 	path = walkway
-	url = ./walkway
+	url = https://git.bananach.space/walkway.git/
 [submodule "wine"]
 	path = wine
-	url = ./wine
+	url = https://gitlab.com/Felfa/wine
 [submodule "xban2"]
 	path = xban2
-	url = ./xban2
+	url = http://git.bananach.space/xban2.git/
