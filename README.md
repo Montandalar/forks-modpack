@@ -1,0 +1,86 @@
+# Forks Modpack
+This is a modpack for [minetest game](https://github.com/minetest/minetest_game). It is directly based on the [mods](https://wiki.linux-forks.de/mediawiki/index.php/Blocks_and_Mods) used on the [LinuxForks minetest server](https://wiki.linux-forks.de/mediawiki/index.php/Main_Page).
+
+## Licenses
+Some of these mods are licensed under permissive licences like WTFPL and the MIT license. Many of the mods in this modpack use copyleft licences like the GNU General Public License. More importantly, some of them are licensed under the GNU Affero General Public License (AGPL). This means that **if you modify any of those AGPL-licensed mods and use them on your minetest server, you must make your changed version available somewhere**. 
+
+## Mods and modpacks included
+
+### advboats
+### advtrains\_freight\_train
+### advtrains\_platform
+### apartment
+### areas
+### atm
+### auth_export
+### bakedclay
+### banish
+### beerchat
+### bike
+### billboard
+### bonemeal
+### c\_doors
+### cottages
+### craftguide
+### currency
+### digilines
+### digtron
+### display_modpack
+### drawers
+### easteregg
+### ehlphabet
+### elevator
+### engrave
+### ethereal
+### farebox
+### farming
+### feedlot
+### freezer
+### gates
+### hangglider
+### hiking
+### intllib
+### jre_e231
+### kebab
+### ldm32
+### linetrack
+### lrfurn
+### mail
+### mailbox
+### markers
+### mesecons
+### minetest_errata
+### minetest_hbhunger
+### minetest_hudbars
+### minetest_itemframes
+### minetest_worldedit
+### mob_horse
+### mobs_animal
+### mobs_redo
+### mobs_water
+### moreblocks
+### morelights
+### moreores
+### my_arcade
+### mymillwork
+### pathv7
+### pipeworks
+### pkarcs
+### places
+### railroad_paraphernalia
+### realestate
+### si_frames
+### signs_lib
+### skinsdb
+### smartshop
+### technic
+### teleport_potion
+### textline
+### tfl_s7_stock
+### towercrane
+### trainblocks
+### trash_can
+### unified_inventory
+### walkway
+### wine
+### xban2
