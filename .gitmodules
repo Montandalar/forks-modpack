@@ -246,7 +246,7 @@
 	url = https://github.com/Mainote/TfL_S7stock_modpack/
 [submodule "tnt"]
 	path = tnt
-	url = git://gpcf.eu/tnt.git
+	url = https://github.com/Montandalar/tnt
 [submodule "towercrane"]
 	path = towercrane
 	url = https://github.com/Montandalar/towercrane
