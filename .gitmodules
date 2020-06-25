@@ -1,9 +1,12 @@
 [submodule "advboats"]
 	path = advboats
 	url = git://git.gpcf.eu/advboats.git
+[submodule "advprofiler"]
+	path = advprofiler
+	url = https://git.bananach.space/advprofiler.git
 [submodule "advtrains"]
 	path = advtrains
-	url = https://git.bananach.space/advtrains.git
+	url = https://github.com/Montandalar/advtrains.git
 [submodule "advtrains_freight_train"]
 	path = advtrains_freight_train
 	url = https://github.com/h-v-smacker/advtrains_freight_train
@@ -40,6 +43,12 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://gitlab.com/Felfa/bonemeal
+[submodule "builtin_item"]
+	path = builtin_item
+	url = https://github.com/PilzAdam/builtin_item.git
+[submodule "canned_food"]
+	path = canned_food
+	url = https://github.com/h-v-smacker/canned_food
 [submodule "c_doors"]
 	path = c_doors
 	url = https://github.com/h-v-smacker/c_doors
@@ -94,6 +103,9 @@
 [submodule "gates"]
 	path = gates
 	url = https://bitbucket.org/kingarthursteam/gates.git
+[submodule "glass_stained"]
+	path = glass_stained
+	url = git://gpcf.eu/glass_stained
 [submodule "hangglider"]
 	path = hangglider
 	url = https://git.bananach.space/hangglider.git
@@ -103,6 +115,9 @@
 [submodule "intllib"]
 	path = intllib
 	url = https://github.com/minetest-mods/intllib/
+[submodule "itemframes"]
+	path = minetest-itemframes
+	url = https://github.com/Zeg9/minetest-itemframes/
 [submodule "jre_e231"]
 	path = jre_e231
 	url = https://git.bananach.space/JR_E231series_modpack.git
@@ -124,6 +139,12 @@
 [submodule "mailbox"]
 	path = mailbox
 	url = git://git.gpcf.eu/mailbox
+[submodule "mapfix"]
+	path = mapfix
+	url = https://github.com/minetest-mods/mapfix.git
+[submodule "maple"]
+	path = maple
+	url = https://github.com/h-v-smacker/maple
 [submodule "markers"]
 	path = markers
 	url = git://git.gpcf.eu/markers
@@ -166,6 +187,9 @@
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores
+[submodule "moretrains"]
+	path = moretrains
+	url = https://notabug.org/gpcf/minetest-moretrains
 [submodule "my_arcade"]
 	path = my_arcade
 	url = https://github.com/Ferk/myArcade/
@@ -184,6 +208,12 @@
 [submodule "places"]
 	path = places
 	url = https://git.bananach.space/places.git/
+[submodule "poshud"]
+	path = poshud
+	url = https://git.bananach.space/poshud.git
+[submodule "pvp_areas"]
+	path = pvp_areas
+	url = https://github.com/taikedz/everamzah-pvp_areas
 [submodule "railroad_paraphernalia"]
 	path = railroad_paraphernalia
 	url = https://github.com/h-v-smacker/railroad_paraphernalia
@@ -214,9 +244,12 @@
 [submodule "tfl_s7_stock"]
 	path = tfl_s7_stock
 	url = https://github.com/Mainote/TfL_S7stock_modpack/
+[submodule "tnt"]
+	path = tnt
+	url = git://gpcf.eu/tnt.git
 [submodule "towercrane"]
 	path = towercrane
-	url = https://github.com/minetest-mods/towercrane
+	url = https://github.com/Montandalar/towercrane
 [submodule "trainblocks"]
 	path = trainblocks
 	url = https://github.com/maxxmodding/trainblocks_bc
