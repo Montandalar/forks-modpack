@@ -9,12 +9,12 @@ The theme of this modpack is really the theme of the LinuxForks server. It is pr
 It is generally hoped that this will be an accurate recreation of the mods on LinuxForks, but of course there is no warranty of it actually being fit for that purpose. Blockhead has a few forks of these mods. While the master of this modpack will try to represent the server accurately, the `blockhead` branch will track Blockhead's forks which contain some small improvements that haven't been added to the server. 
 
 One mod use on LinuxForks, the [munin plugin](https://github.com/Pitriss/overridemodpack/tree/master/munin)
-, is currently not included because it doesn't have its own repository yet:
- 
+, is currently not included because it doesn't have its own repository yet.
+
 ## Installation
 In the spirit of LinuxForks, you will have to be somewhat technical to install this modpack in that *you will have to have git installed*. Theoretically I could create an archive file of the whole modpack without any git information but I haven't yet. Thankfully, using git will also mean that updating the modpack won't require you to download huge amounts of what is mostly the same data each time you update. Furthermore, you may want to play around with the source code of some of these mods and contribute back upstream, and then you would have to have git anyway :). git is your friend, trust me.
 
-This modpack uses *git submodules* to fetch data from a large number of other repositories. It can take some time to download all of the git history. For this reason, **it is highly recommended to perform a shallow clone rather than a full clone of most of the submodules**, saving a lot of data transfers, especially for those mods with a lot of binary files like textures where git tracks the complete file for each version of the binary files. The biggest file saving here is that advtrains contains about 100MB of junk in the assets folder that most players won't want to touch There is one caveat, some of the mods are hosted on gpcf's sites which use cgit and cgit currently does not support shallow cloning.
+This modpack uses *git submodules* to fetch data from a large number of other repositories. It can take some time to download all of the git history. For this reason, **it is highly recommended to perform a shallow clone rather than a full clone of most of the submodules**, saving a lot of data transfers, especially for those mods with a lot of binary files like textures where git tracks the complete file for each version of the binary files. The biggest file saving here is that advtrains contains about 100MB of junk in the assets folder that most players won't want to touch. There is one caveat, some of the mods are hosted on gpcf's sites which use cgit and cgit currently does not support shallow cloning.
 
 Since this modpack is basically all-encompassing, **if you have any other mods then I recommend keeping a separate minetest directory for the forks modpack** because it is quite likely at least one of the mods here will conflict with upstream versions you might have. 
 
