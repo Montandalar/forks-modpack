@@ -234,7 +234,7 @@
 	url = https://git.bananach.space/smartshop.git/
 [submodule "technic"]
 	path = technic
-	url = https://github.com/Montandalar/technic/
+	url = https://github.com/h-v-smacker/technic/
 [submodule "teleport_potion"]
 	path = teleport_potion
 	url = https://notabug.org/TenPlus1/teleport_potion
