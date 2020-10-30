@@ -12,7 +12,7 @@
 	url = https://github.com/h-v-smacker/advtrains_freight_train
 [submodule "advtrains_platform"]
 	path = advtrains_platform
-	url = https://git.bananach.space/advtrains_platform.git
+	url = https://github.com/Montandalar/advtrains_platform
 [submodule "apartment"]
 	path = apartment
 	url = https://git.bananach.space/apartment.git
