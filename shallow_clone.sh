@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Full - note all of these except notabug are cgit sites..
-#declare -a full=(git.gpcf.eu git.bananach.space git.linux-forks.de notabug.org cheapiesystems.com)
-declare -a shallow=(github.com gitlab.com bitbucket.com repo.or.cz)
+# Mostly cgit sites
+#declare -a full=(git.gpcf.eu git.bananach.space git.linux-forks.de notabug.org cheapiesystems.com repo.or.cz)
+declare -a shallow=(github.com gitlab.com bitbucket.com)
 lineno=0
 while read; do
     if [[ ${REPLY:0:1} == '[' ]]; then

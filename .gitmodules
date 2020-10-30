@@ -129,7 +129,7 @@
 	url = https://github.com/laza83/ldm32
 [submodule "linetrack"]
 	path = linetrack
-	url = https://git.bananach.space/linetrack.git/
+	url = https://gitlab.com/Hume2/linetrack.git
 [submodule "lrfurn"]
 	path = lrfurn
 	url = https://github.com/thefamilygrog66/lrfurn
