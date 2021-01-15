@@ -371,6 +371,7 @@ Adds a freezer that runs on perpetual motion. It can be used to create a variety
 Adds a gate controller which can be used to set up a 'gate' as an area which can swap between two sets of nodes at-will, for example to make a drawbridge you can create one open version with the drawbridge down and a closed one with the drawbridge up. The gates have a limit of 32 in distance and volume of 6000 which you can configure in the source code.
 
 * Mod author: Addi/adrido of king arthur's team, [king-arthur.eu]().
+* [Forum thread](https://forum.minetest.net/viewtopic.php?t=9897)
 
 ### glass_stained
 Adds a set of 12 stained glass varieties including nodes of glass that span multiple nodes in size to fill windows that have pkarcs and other shapes in them, as well as fancy spiked-top steel bars.
