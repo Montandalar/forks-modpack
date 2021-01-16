@@ -268,3 +268,6 @@
 [submodule "xban2"]
 	path = xban2
 	url = http://git.bananach.space/xban2.git/
+[submodule "fireworkz"]
+	path = fireworkz
+	url = https://git.bananach.space/fireworkz.git
