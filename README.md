@@ -42,6 +42,10 @@ The other script will shallow clone all of the mods that can be shallow cloned a
 
 `$ ./shallowclone.sh`
 
+Later, updating to the latest version is easy to do with:
+
+`$ ./update.sh`
+
 After you create your world at the main menu in minetest, you shouldn't just enable all of the mods. Instead, you should merge the contents of the provided template file `world.mt` into your new world's `world.mt`.
 
 Finally there is at least one configuration change to add to minetest: The default items! To have all new players be given the same initial items as on LinuxForks server, you need to enable the setting `give_initial_stuff` and set the minetest setting `initial_stuff` to have the right value. Add the following lines to your `minetest.conf`:
