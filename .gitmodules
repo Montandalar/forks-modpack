@@ -52,6 +52,12 @@
 [submodule "c_doors"]
 	path = c_doors
 	url = https://github.com/h-v-smacker/c_doors
+[submodule "config"]
+	path = config
+	url = https://bitbucket.org/sorcerykid/config.git
+[submodule "console"]
+	path = console
+	url = https://bitbucket.org/sorcerykid/console
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/h-v-smacker/cottages
@@ -97,6 +103,12 @@
 [submodule "feedlot"]
 	path = feedlot
 	url = https://git.bananach.space/feedlot.git
+[submodule "fireworkz"]
+	path = fireworkz
+	url = https://git.bananach.space/fireworkz.git
+[submodule "formspecs"]
+	path = formspecs
+	url = https://bitbucket.org/sorcerykid/formspecs.git
 [submodule "freezer"]
 	path = freezer
 	url = http://git.linux-forks.de/freezer/
@@ -151,6 +163,9 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
+[submodule "mesecons_ratelimiter"]
+	path = mesecons_ratelimiter
+	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
 [submodule "minetest_errata"]
 	path = minetest_errata
 	url = https://github.com/h-v-smacker/minetest_errata
@@ -241,6 +256,9 @@
 [submodule "tfl_s7_stock"]
 	path = tfl_s7_stock
 	url = https://github.com/Mainote/TfL_S7stock_modpack/
+[submodule "timekeeper"]
+	path = timekeeper
+	url = https://bitbucket.org/sorcerykid/timekeeper.git
 [submodule "tnt"]
 	path = tnt
 	url = https://github.com/Montandalar/tnt
@@ -265,6 +283,3 @@
 [submodule "xban2"]
 	path = xban2
 	url = http://git.bananach.space/xban2.git/
-[submodule "fireworkz"]
-	path = fireworkz
-	url = https://git.bananach.space/fireworkz.git

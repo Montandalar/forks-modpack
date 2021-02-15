@@ -217,6 +217,22 @@ Allows you to preserve food in glass vessels. Some of the foods require sugar to
 * Mod author: Smacker
 * See canned_food/README.md for more information
 
+### config
+'Configuration panel'. A configuration file in-game editor and code library by SorceryKid. Required for the debugging console mod.
+
+* Mod author: sorcerykid
+* [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=24282)
+* [ContentDB](https://content.minetest.net/packages/sorcerykid/config/)
+* See config/README.txt for more information
+
+### console
+Debugging console mod by sorcerykid. Apart from viewing the debug log inside a formspec, it also allows all calls to a function to be intercepted and printed to do the debug log, known as 'piping'.
+
+* Mod author: sorcerykid
+* [Forum thread](https://forum.minetest.net/viewtopic.php?t=25433)
+* [ContentDB](https://content.minetest.net/packages/sorcerykid/console/)
+* See console/README.txt for more information
+
 ### cottages
 A set of nodes for building medieval-era kind of houses, inside and out.
 
@@ -365,6 +381,14 @@ The feedlot mod also includes the milker, which can accept a bucket and hold up 
 * Mod author: gpcf
 * [Forum thread](https://forum.minetest.net/viewtopic.php?t=18811)
 
+### formspecs
+ActiveFormspecs, a library for safe & secure formspec handling. So far only used by `console`.
+
+* Mod author: sorcerykid
+* [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=19303)
+* [ContentDB](https://content.minetest.net/packages/sorcerykid/formspecs/)
+* See formspecs/README.txt for more information.
+
 ### freezer
 Adds a freezer that runs on perpetual motion. It can be used to create a variety of frozen items like ice from water, and foods like popsicles and pelmeni. It supports pipeworks for input and output.
 
@@ -429,6 +453,8 @@ Döner kebab mod. Adds a kebab rotisserie which can be shaved with a sword. The 
 
 ### lag_warning
 Warns of lag events: currently just when when mapblocks are being generated.
+
+FIXME: This mod has been removed upstream and a statement is pending on whether it can be re-hosted (the mod itself does not specify a licence).
 
 * Mod author: naturefreshmilk 
 
@@ -762,6 +788,14 @@ Adds a set of two advtrain carriages based on the Transport for London (TfL) S7 
 
 * Mod author: Mainote
 * See tfl_s7_stock/README.md for more information
+
+### timekeeper
+A library for easy recurring timers, handled centrally. So far used just by `console`.
+
+* Mod author: sorcerykid
+* [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=25142)
+* [ContentDB](https://content.minetest.net/packages/sorcerykid/timekeeper/)
+* See timekeeper/README.txt for more information.
 
 ### poshud
 Adds the position, maximum lag and optionally mapblock coordinates as a HUD element. TODO: later versions include advtrains railwaytime.
