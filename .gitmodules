@@ -1,6 +1,6 @@
 [submodule "advboats"]
 	path = advboats
-	url = git://git.gpcf.eu/advboats.git
+	url = https://github.com/Montandalar/advboats.git
 [submodule "advprofiler"]
 	path = advprofiler
 	url = https://git.bananach.space/advprofiler.git
@@ -69,7 +69,7 @@
 	url = https://github.com/h-v-smacker/digtron
 [submodule "display_modpack"]
 	path = display_modpack
-	url = git://git.gpcf.eu/display_modpack.git
+	url = https://git.bananach.space/display_modpack.git
 [submodule "drawers"]
 	path = drawers
 	url = http://git.linux-forks.de/drawers/
@@ -105,7 +105,7 @@
 	url = https://bitbucket.org/kingarthursteam/gates.git
 [submodule "glass_stained"]
 	path = glass_stained
-	url = git://gpcf.eu/glass_stained
+	url = https://git.bananach.space/glass_stained.git
 [submodule "hangglider"]
 	path = hangglider
 	url = https://git.bananach.space/hangglider.git
@@ -123,7 +123,7 @@
 	url = https://git.bananach.space/JR_E231series_modpack.git
 [submodule "kebab"]
 	path = kebab
-	url = git://git.gpcf.eu/kebab.git
+	url = https://github.com/Montandalar/gpcf_kebab.git
 [submodule "ldm32"]
 	path = ldm32
 	url = https://github.com/laza83/ldm32
@@ -138,7 +138,7 @@
 	url = https://cheapiesystems.com/git/mail/
 [submodule "mailbox"]
 	path = mailbox
-	url = git://git.gpcf.eu/mailbox
+	url = https://git.bananach.space/mailbox.git
 [submodule "mapfix"]
 	path = mapfix
 	url = https://github.com/minetest-mods/mapfix.git
@@ -147,7 +147,7 @@
 	url = https://github.com/h-v-smacker/maple
 [submodule "markers"]
 	path = markers
-	url = git://git.gpcf.eu/markers
+	url = https://github.com/Montandalar/markers_gpcf.git
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
@@ -216,13 +216,13 @@
 	url = https://github.com/h-v-smacker/railroad_paraphernalia
 [submodule "realestate"]
 	path = realestate
-	url = git://git.gpcf.eu/realestate.git
+	url = https://github.com/Montandalar/realestate.git
 [submodule "si_frames"]
 	path = si_frames
 	url = https://github.com/h-v-smacker/si_frames/
 [submodule "signs_lib"]
 	path = signs_lib
-	url = git://git.gpcf.eu/signs.git
+	url = https://github.com/Montandalar/signs_lib_gpcf.git
 [submodule "skinsdb"]
 	path = skinsdb
 	url = https://github.com/minetest-mods/skinsdb
