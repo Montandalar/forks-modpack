@@ -314,6 +314,9 @@ The drawers can be upgraded with upgrades items made of various materials. Each 
 * [Forum Topic](https://forum.minetest.net/viewtopic.php?t=17134)
 * Mod author: LNJ
 
+### dumpnodes
+Dumps all of the node definitions to one file, nodes.txt in the world directory. Useful for making colours files for mt-mapper. Do not enable by default, has no privilege requirement!
+
 ### easteregg
 Adds a set of painted chicken eggs in the tradition of painted easter eggs. They are available in the 14 dye colours. The yellouw [sic] egg is an easter egg that LinuxForks regulars will understand.
 
@@ -451,7 +454,7 @@ Döner kebab mod. Adds a kebab rotisserie which can be shaved with a sword. The 
 
 * Mod author: gpcf
 
-### lag_warning
+### lag\_warning
 Warns of lag events: currently just when when mapblocks are being generated.
 
 * Mod author: naturefreshmilk 

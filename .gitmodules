@@ -79,6 +79,9 @@
 [submodule "drawers"]
 	path = drawers
 	url = http://git.linux-forks.de/drawers/
+[submodule "dumpnodes"]
+	path = dumpnodes
+	url = https://github.com/Montandalar/dumpnodes.git
 [submodule "easteregg"]
 	path = easteregg
 	url = https://gitlab.com/h2mm/easteregg
