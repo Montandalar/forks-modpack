@@ -60,7 +60,7 @@
 	url = https://bitbucket.org/sorcerykid/console
 [submodule "cottages"]
 	path = cottages
-	url = https://github.com/h-v-smacker/cottages
+	url = https://github.com/gpcf/cottages
 [submodule "craftguide"]
 	path = craftguide
 	url = https://github.com/minetest-mods/craftguide
@@ -136,6 +136,9 @@
 [submodule "kebab"]
 	path = kebab
 	url = https://github.com/Montandalar/gpcf_kebab.git
+[submodule "lag_warning"]
+	path = lag_warning
+	url = https://github.com/Montandalar/lag_warning.git
 [submodule "ldm32"]
 	path = ldm32
 	url = https://github.com/laza83/ldm32
@@ -258,7 +261,7 @@
 	url = https://github.com/Mainote/TfL_S7stock_modpack/
 [submodule "timekeeper"]
 	path = timekeeper
-	url = https://bitbucket.org/sorcerykid/timekeeper.git
+	url = https://github.com/Montandalar/timekeeper.git
 [submodule "tnt"]
 	path = tnt
 	url = https://github.com/Montandalar/tnt

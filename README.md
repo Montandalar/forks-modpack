@@ -454,8 +454,6 @@ Döner kebab mod. Adds a kebab rotisserie which can be shaved with a sword. The 
 ### lag_warning
 Warns of lag events: currently just when when mapblocks are being generated.
 
-FIXME: This mod has been removed upstream and a statement is pending on whether it can be re-hosted (the mod itself does not specify a licence).
-
 * Mod author: naturefreshmilk 
 
 ### ldm32
