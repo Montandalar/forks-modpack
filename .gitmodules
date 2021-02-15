@@ -116,8 +116,8 @@
 	path = intllib
 	url = https://github.com/minetest-mods/intllib/
 [submodule "itemframes"]
-	path = minetest-itemframes
-	url = https://github.com/Zeg9/minetest-itemframes/
+	path = itemframes
+	url = https://git.bananach.space/itemframes.git/
 [submodule "jre_e231"]
 	path = jre_e231
 	url = https://git.bananach.space/JR_E231series_modpack.git
@@ -160,9 +160,6 @@
 [submodule "minetest_hudbars"]
 	path = minetest_hudbars
 	url = http://repo.or.cz/minetest_hudbars.git
-[submodule "minetest_itemframes"]
-	path = minetest_itemframes
-	url = https://github.com/Zeg9/minetest-itemframes
 [submodule "minetest_worldedit"]
 	path = minetest_worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit
