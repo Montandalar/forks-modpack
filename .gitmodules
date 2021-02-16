@@ -57,7 +57,7 @@
 	url = https://bitbucket.org/sorcerykid/config.git
 [submodule "console"]
 	path = console
-	url = https://bitbucket.org/sorcerykid/console
+	url = https://github.com/Montandalar/console_sorcerykid.git
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/gpcf/cottages
@@ -225,7 +225,7 @@
 	url = https://github.com/h-v-smacker/pkarcs
 [submodule "places"]
 	path = places
-	url = https://git.bananach.space/places.git/
+	url = https://github.com/Montandalar/places.git
 [submodule "poshud"]
 	path = poshud
 	url = https://git.bananach.space/poshud.git
