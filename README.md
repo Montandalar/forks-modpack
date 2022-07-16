@@ -127,6 +127,13 @@ Adds a lot more options for materials to make platforms for the advtrains mod on
 
 MISSING: advtrains\_train\_industrial 
 
+### animalworld
+Chopped up Fork of Wilhelmine's Animal World mod that adds just a kangaroo. The mod also includes a crocodile but I am using the one from mobs\_animal by Tenplus1 for that.
+
+* Mod author: Wilhelmine/Skandarella
+* [Forum thread](https://forum.minetest.net/viewtopic.php?t=26194&p=389980)
+* AussieForks maintainer: Blockhead
+
 ### apartment
 Allows users to rent a small area. The tenant is given access to place blocks in that area and over other protections like locked chests and doors.
 
@@ -153,6 +160,17 @@ See atm/README.md for more information.
 
 * Mod author: gpcf
 * Additions by: Smacker
+
+### australia
+Replaces the biomes with a variety Australian ones with Australian grasses, trees and modified ore deposits.
+
+Fork from Josselin2/axcore that updates it for Minetest 5.5.1 (previously was targeted at 0.4.x).
+
+TODO: Montandalar/Blockhead fork that adds european crops when farming redo is present.
+
+* Mod author: vlapsley/demonboy
+* Fixes by: Josselin2/axcore
+* [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=14412) 
 
 ### auth_export
 A component in two parts: A CGI script and a minetest mod. Together they facilitate authenticating minetest users externally to other programs. This is used to authenticate mediawiki users on the [LinuxForks Wiki](https://li-fo.de/wiki).
@@ -204,6 +222,14 @@ Adds bones to be found in dirt, bonemeal ground from bones, mulch made from tree
 * [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=16446)
 * Mod author: TenPlus1
 * LinuxForks maintainer: Felfat
+
+### bridger
+Adds various wood and steel parts for constructing bridges (or other shapes out of steel), plus concrete foundations.
+
+* Mod author: v-rob
+* Contributions by: jat15, OgelGames
+* [Forum thread](https://forum.minetest.net/viewtopic.php?t=18243)
+* [ContentDB](https://forum.minetest.net/viewtopic.php?f=9&t=14412)
 
 ### c\_doors
 'Centred doors'. Adds a set of doors which are centred in their block (unlike the default doors which are on one edge). It also adds some openable window-like doors. The doors and windows are available in steel, obsidian glass, glass and wood.
@@ -305,6 +331,12 @@ TODO / known bug: The signs in signs_road are known to not recover after a `/cle
 * Mod author: Pyrollo
 * [Forum thread](https://forum.minetest.net/viewtopic.php?t=17134)
 
+### dlxtrains_modpack
+The *DlxTrains* modpack Marnack adds a variety of American and European rolling stock as AdvTrains wagons, and also a diesel locomotive. The wagons have livery and aging/weathering features.
+
+* Mod author: Marnack
+* [ContentDB](https://content.minetest.net/packages/Marnack/dlxtrains/)
+
 ### drawers
 Adds high-capacity containers that hold only 1, 2 or 4 kinds of item. They can be inserted into with the pneumatic tubes from `pipeworks` (included in this modpack) or with the drawer controller. The drawer controller can be quite slow. When you put something into the controller, it will look for an attached drawer in a network and place the item into the appropriate drawer. There is no automatic way to with-drawer (pun intended) from the drawers.
 
@@ -356,6 +388,12 @@ Specifically ethereal_undo, the LinuxForks version. An extensive worldgen mod th
 * Mod author: TenPlus1
 * [Forum thread](https://forum.minetest.net/viewtopic.php?f=11&t=14638)
 * LinuxForks maintainer: Felfa
+
+### factory_bridges
+Adds a set of walkways with bannisters, ladders and stairs made out of steel for use in industrial settings.
+
+* Original mod author: narrnika
+* Maintainers: Pandorabox (BuckarooBanzai, naturefreshmilk and others)
 
 ### farebox
 Adds the farebox and faregate items.
@@ -803,6 +841,14 @@ Adds the position, maximum lag and optionally mapblock coordinates as a HUD elem
 
 * Mod author: orwell96
 * Contributions by naturefreshmilk
+
+### steel
+Adds a steel derivative for crafting a few products: steel blocks that rust when near water, corrugated roofing, steel fences and grates & struts. The steel used can be recycled unless it is rusted.
+
+* Original mod author: João Mato/minetesting
+* Maintainers: mt-mod
+* Contributors: Zeg9, VanessaE, wsor4035
+* [Forum thread](https://forum.minetest.net/viewtopic.php?t=2014)
 
 ### towercrane
 Adds a crane that can be deployed in any area that you own or any free area. It adds a temporary protection on the area it is deployed on that gets removed with the crane. To use the crane, you first configure how far up and across the crane extends its arm. The crane is then activated from the node on its base, giving you flying privilege limited to within the crane's area of effect.

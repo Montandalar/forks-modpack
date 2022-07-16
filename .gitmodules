@@ -13,6 +13,9 @@
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/Montandalar/advtrains_platform
+[submodule "animalworld_kangaroo"]
+	path = animalworld_kangaroo
+	url = https://github.com/Montandalar/animalworld_kangaroo
 [submodule "apartment"]
 	path = apartment
 	url = https://git.bananach.space/apartment.git
@@ -22,6 +25,9 @@
 [submodule "atm"]
 	path = atm
 	url = https://git.bananach.space/atm.git
+[submodule "australia"]
+	path = australia
+	url = https://github.com/axcore/australia.git
 [submodule "auth_export"]
 	path = auth_export
 	url = https://git.bananach.space/auth_export.git
@@ -43,6 +49,9 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://gitlab.com/Felfa/bonemeal
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger
 [submodule "builtin_item"]
 	path = builtin_item
 	url = https://github.com/PilzAdam/builtin_item.git
@@ -76,6 +85,9 @@
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://git.bananach.space/display_modpack.git
+[submodule "dlxtrains_modpack"]
+	path = dlxtrains_modpack
+	url = https://github.com/Marnack/DlxTrains_modpack
 [submodule "drawers"]
 	path = drawers
 	url = http://git.linux-forks.de/drawers/
@@ -97,6 +109,9 @@
 [submodule "ethereal"]
 	path = ethereal
 	url = https://gitlab.com/Felfa/ethereal
+[submodule "factory_bridges"]
+	path = factory_bridges
+	url = https://github.com/pandorabox-io/factory_bridges
 [submodule "farebox"]
 	path = farebox
 	url = http://git.linux-forks.de/farebox/
@@ -250,6 +265,9 @@
 [submodule "smartshop"]
 	path = smartshop
 	url = https://git.bananach.space/smartshop.git/
+[submodule "steel"]
+	path = steel
+	url = https://github.com/mt-mods/steel
 [submodule "technic"]
 	path = technic
 	url = https://github.com/h-v-smacker/technic/
