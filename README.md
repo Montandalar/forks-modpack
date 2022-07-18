@@ -1,24 +1,21 @@
-# Forks Modpack
+# AussieForks Modpack
 
 ## Introduction
 
-This is a modpack for [minetest game](https://github.com/minetest/minetest_game). It is directly based on the [mods](https://wiki.linux-forks.de/mediawiki/index.php/Blocks_and_Mods) used on the [LinuxForks minetest server](https://wiki.linux-forks.de/mediawiki/index.php/Main_Page). It is maintained by [Blockhead](https://wiki.linux-forks.de/mediawiki/index.php/User:Blockhead), a long time player on LinuxForks. It is not officially endorsed by the server administration.
+This is a modpack for [minetest game](https://github.com/minetest/minetest_game). It was directly based on the [mods](https://wiki.linux-forks.de/mediawiki/index.php/Blocks_and_Mods) used on the [LinuxForks minetest server](https://wiki.linux-forks.de/mediawiki/index.php/Main_Page), but this version contains some extra mods that Blockhead wanted for his own use and some updates to mods that LinuxForks has not updated themselves.
 
-The theme of this modpack is really the theme of the LinuxForks server. It is probably best described as *realism and technology*. There are a number of animals but no hostile mobs. There are quite a few new ores underground and a lot of technology and automation mods such as digtron, pipeworks and technic.
+This modpack is largely the same as its LinuxForks origin and is likely to remain that way. As a long-time player of LinuxForks I mostly agree with their philosophies on things. I don't plan on adding basic\_materials, or moving away from technic. However, I do intend to maintain an Australian theme on top of the tech/realism basis.
 
-It is generally hoped that this will be an accurate recreation of the mods on LinuxForks, but of course there is no warranty of it actually being fit for that purpose. Blockhead has a few forks of these mods. While the master of this modpack will try to represent the server accurately, the `blockhead` branch will track Blockhead's forks which contain some small improvements that haven't been added to the server. 
-
-One mod use on LinuxForks, the [munin plugin](https://github.com/Pitriss/overridemodpack/tree/master/munin)
-, is currently not included because it doesn't have its own repository yet.
+Any reference to 'Forks modpack' below can be taken as a shorthand for 'AussieForks' modpack. 
 
 ## Installation
-The forks modpack requires minetest version 5.3.0.
+The modpack is only supported for minetest version 5.5.1; I don't test it on earlier versions. The modpack was originally started in 5.3.0 though, so it might work for that version. No guarantees and no support though.
 
 In the spirit of LinuxForks, you will have to be somewhat technical to install this modpack in that *you will have to have git installed*. Theoretically I could create an archive file of the whole modpack without any git information but I haven't yet. Thankfully, using git will also mean that updating the modpack won't require you to download huge amounts of what is mostly the same data each time you update. Furthermore, you may want to play around with the source code of some of these mods and contribute back upstream, and then you would have to have git anyway :). git is your friend, trust me.
 
 This modpack uses *git submodules* to fetch data from a large number of other repositories. It can take some time to download all of the git history. For this reason, **it is highly recommended to perform a shallow clone rather than a full clone of most of the submodules**, saving a lot of data transfers, especially for those mods with a lot of binary files like textures where git tracks the complete file for each version of the binary files. The biggest file saving here is that advtrains contains about 100MB of junk in the assets folder that most players won't want to touch. There is one caveat, some of the mods are hosted on gpcf's sites which use cgit and cgit currently does not support shallow cloning.
 
-Since this modpack is basically all-encompassing, **if you have any other mods then I recommend keeping a separate minetest directory for the forks modpack** because it is quite likely at least one of the mods here will conflict with upstream versions you might have. 
+Since this modpack is basically all-encompassing, **if you have any other mods then I recommend keeping a separate minetest directory for the modpack** because it is quite likely at least one of the mods here will conflict with upstream versions you might have. 
 
 For this reason, I have included two shell scripts that will install the mods in the pack after you check out the forks-modpack repository. To start the install, do the following either in a terminal on Linux/OS X or [git bash](https://gitforwindows.org/) on windows:
 
@@ -32,7 +29,7 @@ For this reason, I have included two shell scripts that will install the mods in
 
 If at this stage you want to use Blockhead's forks, you can checkout that branch:
 
-`git checkout blockhead`
+`git checkout aussieforks`
 
 There are two shell scripts in your new mods directory. One will perform a full clone of all the mods that will take quite some time. To install this way do the following:
 
@@ -64,7 +61,7 @@ Please see the readme or licence files for each mod to read their individual lic
 The scripts for installing this modpack I consider too trivial to copyright. Consider them public domain.
 
 ### Licence for this README
-Copyright (C) 2020 Blockhead. <br/>
+Copyright (C) 2020-2022 Blockhead. <br/>
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -75,7 +72,7 @@ Free Documentation License".
 ## Q&A
 Q: Why are some of these mods using such old versions?
 
-A: The mods are used on a popular public server, so any newer versions have to be tested before they are added, to make sure they don't break anything. Not testing has had serious consequences like the [Great train service breakdowns](https://wiki.linux-forks.de/mediawiki/index.php/Great_train_service_breakdown). Sometimes the reason is that the mod author has broken something, so if the mod is going to be updated it has to be done as a fork and cherry-picking patches from upstream. Sometimes the philosophy of newer versions just doesn't agree; this is the reason `basic_materials` is avoided in this modpack.
+A: The mods are used on a popular public server, so any newer versions have to be tested before they are added, to make sure they don't break anything. Not testing has had serious consequences like the Great train service breakdowns, wherein all advtrains were lost. Sometimes the reason is that the mod author has broken something, so if the mod is going to be updated it has to be done as a fork and cherry-picking patches from upstream. Sometimes the philosophy of newer versions just doesn't agree; this is the reason `basic_materials` is avoided in this modpack.
 
 There are some other questions and answers for specific mods below.
 
