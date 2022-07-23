@@ -192,7 +192,7 @@
 	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
 [submodule "minetest_errata"]
 	path = minetest_errata
-	url = https://github.com/h-v-smacker/minetest_errata
+	url = https://github.com/Montandalar/minetest_errata
 [submodule "minetest_hbhunger"]
 	path = minetest_hbhunger
 	url = http://repo.or.cz/minetest_hbhunger.git
