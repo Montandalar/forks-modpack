@@ -37,6 +37,9 @@
 [submodule "banish"]
 	path = banish
 	url = https://git.bananach.space/banish.git
+[submodule "basic_trains"]
+	path = basic_trains
+	url = https://github.com/Montandalar/basic_trains.git
 [submodule "beerchat"]
 	path = beerchat
 	url = https://git.bananach.space/beerchat.git
@@ -307,6 +310,3 @@
 [submodule "xban2"]
 	path = xban2
 	url = http://git.bananach.space/xban2.git/
-[submodule "basic_trains"]
-	path = basic_trains
-	url = https://git.bananach.space/basic_trains.git
