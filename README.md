@@ -122,10 +122,10 @@ Adds a lot more options for materials to make platforms for the advtrains mod on
 * Mod author: Och_Nö
 * 45 degree platforms designed by Och_Nö and model made by Blockhead.
 
-MISSING: advtrains\_train\_industrial 
-
 ### animalworld
 Chopped up Fork of Wilhelmine's Animal World mod that adds just a kangaroo. The mod also includes a crocodile but I am using the one from mobs\_animal by Tenplus1 for that.
+
+INVESTIGATE: crocodile?
 
 * Mod author: Wilhelmine/Skandarella
 * [Forum thread](https://forum.minetest.net/viewtopic.php?t=26194&p=389980)
@@ -163,7 +163,10 @@ Replaces the biomes with a variety Australian ones with Australian grasses, tree
 
 Fork from Josselin2/axcore that updates it for Minetest 5.5.1 (previously was targeted at 0.4.x).
 
-TODO: Montandalar/Blockhead fork that adds european crops when farming redo is present.
+TODO: Montandalar/Blockhead fork that adds european crops to ships and dungeons when farming redo is present.
+TODO: Colour grade bluestone
+TODO: try the outback minerals
+FIXME: that block of wood on top of trees
 
 * Mod author: vlapsley/demonboy
 * Fixes by: Josselin2/axcore
@@ -188,6 +191,20 @@ A mod for server admins/moderators to banish misbehaving players to a specific a
 Currently, some configuration will have to be done inside the lua source files to set the jail position. This mod also integrates with xban2 (also included in this modpack) to record when users are banished.
 
 * Mod author: gpcf
+
+### basic_trains
+A collection of the oldest trains for advtrains. These trains used to be included with advtrains but have since been split out.
+
+Mods inside are:
+* advtrains\_train\_industrial: Two red industrial locomotives, a tank wagon and a wood stake wagon.
+* advtrains\_train\_japan: A multiple-unit train with middle and end cars.
+* advtrains\_train\_steam: Two steam locomotives, a steam-era passenger wagon and a box wagon.
+* advtrains\_train\_subway: A subway wagon similar to a European subway/metro wagon from a system like Berlin U-Bahn.
+
+This version includes Blockhead's better liveries for the subway wagons, which will make it into the mainline one day.
+
+* Contributors: MBB, orwell96, Nathan Salapat, Krokoschlange, Blockhead - more detailed info available on the advtrains wiki
+* [Advtrains Wiki - Catalogue](https://advtrains.de/wiki/doku.php?id=usage:trains:basic_trains)
 
 ### beerchat
 A mod that adds chat channels. Users can create the channels with a password and set a colour for them. Includes logging capability.
@@ -564,6 +581,8 @@ All mods in the ordinary mesecons modpack are included as well as `mesecons_rate
 ### minetest_errata
 A mod to fix small errors and omissions of other mods. Adds a variety of doors, glass panes, mossy blocks, cobblestones of sandstone and more.
 
+FIXME: doesn't find default_key.png when buildng protectd door textures.
+
 * Mod author: Smacker
 * See minetest_errata/README.md for more information.
 
@@ -663,6 +682,8 @@ Silver is important in several `technic` applications due to its electrical cond
 A modpack that adds a variety of new rollingstock and motive power for advtrains, all of which have crafting recipes. Currently only the `moretrains_basic` set with the German-style locomotive and passenger carriage are used on LinuxForks, but there are other nice sets in the pack if you want to play with those.
 
 This LinuxForks version has a texture size optimisation by  gpcf.
+
+TODO: select appropriate mods, update fork version(?), disable carts
 
 * Mod author: Rubberduck
 * [Forum thread](https://forum.minetest.net/viewtopic.php?f=9&t=24112)
@@ -779,6 +800,8 @@ A: It won't crash the server, because each macro is evaluated only once.
 ### skinsdb
 Allows players to set a skin from a selection provided by the server. The skin selection menu is available from an icon inside `unified_inventory`.
 
+FIXME: Input sanitisation, update the mod!
+
 * warning/TODO: this mod includes some commands, which, if given no or incorrect arguments can crash the server! 
 * See skinsdb/README.md for more information
 * 
@@ -788,6 +811,9 @@ A node that can sell up to 4 different items and receive payment by items as wel
 
 * Mod author: AiTechEye
 * LinuxForks maintainer: gpcf
+
+###some_more_trains
+FIXME: Install
 
 ### technic
 A rather huge and all-encompassing technology and automation mod. It affects worldgen: it adds a number of metals to the world, as well as marble and granite and a new species of tree: the rubber tree. Using these natural resources of various metals and organic products like rubber and plastic you can make a large number of machines. The machines require power and can perform different tasks; they can all be connected with `pipeworks`. The machines can be powered by three voltages: Low, Medium and High Voltage (LV, MV and HV). Power generation is easiest with the LV hydro generators.
