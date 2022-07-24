@@ -398,6 +398,8 @@ Adds an engraving table that allows you to rename items. Has potential to do bad
 ### ethereal
 Specifically ethereal_undo, the LinuxForks version. An extensive worldgen mod that some interesting biomes with new kinds of grass and trees, including the rare crystal and fiery biomes where the materials for crystal tools can be found.
 
+* TODO: Work out how to disable most biomes
+
 * See ethereal/README.md and the crafting guide for more information.
 * Mod author: TenPlus1
 * [Forum thread](https://forum.minetest.net/viewtopic.php?f=11&t=14638)
@@ -890,6 +892,8 @@ Safe TNT fork by gpcf. The TNT has a configurable minimum depth to keep the surf
 
 ### trainblocks
 Adds a set of railway-related blocks for showing information about what trains are found where.
+
+* TODO: Switch to my fork
 
 * German-style U-bahn, S-bahn and 'trains this way' signs.
 * Coloured signs for subway lines numbered from 1-10 that match the feature of advtrains_subway where subway wagons that are assigned a line numbered 1-10 change their texture to display that line on the front of the train.

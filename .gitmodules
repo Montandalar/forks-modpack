@@ -27,7 +27,7 @@
 	url = https://git.bananach.space/atm.git
 [submodule "australia"]
 	path = australia
-	url = https://github.com/axcore/australia.git
+	url = https://github.com/Aussieforks/australia
 [submodule "auth_export"]
 	path = auth_export
 	url = https://git.bananach.space/auth_export.git
