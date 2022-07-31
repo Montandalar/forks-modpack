@@ -78,7 +78,7 @@
 	url = https://github.com/minetest-mods/craftguide
 [submodule "currency"]
 	path = currency
-	url = https://git.bananach.space/currency.git/
+	url = https://github.com/Aussieforks/currency
 [submodule "digilines"]
 	path = digilines
 	url = https://github.com/Jeija/minetest-mod-digilines.git
