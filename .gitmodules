@@ -1,6 +1,3 @@
-[submodule "advboats"]
-	path = advboats
-	url = https://github.com/Montandalar/advboats.git
 [submodule "advprofiler"]
 	path = advprofiler
 	url = https://git.bananach.space/advprofiler.git
@@ -55,9 +52,6 @@
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/v-rob/bridger
-[submodule "builtin_item"]
-	path = builtin_item
-	url = https://github.com/PilzAdam/builtin_item.git
 [submodule "canned_food"]
 	path = canned_food
 	url = https://github.com/h-v-smacker/canned_food
@@ -178,9 +172,6 @@
 [submodule "mapfix"]
 	path = mapfix
 	url = https://github.com/minetest-mods/mapfix.git
-[submodule "maple"]
-	path = maple
-	url = https://github.com/h-v-smacker/maple
 [submodule "markers"]
 	path = markers
 	url = https://github.com/Montandalar/markers_gpcf.git
