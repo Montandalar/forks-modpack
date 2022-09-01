@@ -133,6 +133,9 @@
 [submodule "glass_stained"]
 	path = glass_stained
 	url = https://git.bananach.space/glass_stained.git
+[submodule "glider"]
+	path = glider
+	url = https://github.com/Maverick2797/glider.git
 [submodule "hangglider"]
 	path = hangglider
 	url = https://git.bananach.space/hangglider.git
