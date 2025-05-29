@@ -30,7 +30,7 @@
 	url = https://git.bananach.space/auth_export.git
 [submodule "bakedclay"]
 	path = bakedclay
-	url = https://notabug.org/TenPlus1/bakedclay
+	url = https://codeberg.org/TenPlus1/bakedclay
 [submodule "banish"]
 	path = banish
 	url = https://git.bananach.space/banish.git
@@ -186,22 +186,22 @@
 	url = https://github.com/Montandalar/minetest_errata
 [submodule "minetest_hbhunger"]
 	path = minetest_hbhunger
-	url = http://repo.or.cz/minetest_hbhunger.git
+	url = http://codeberg.org/Wuzzy/minetest_hbhunger.git
 [submodule "minetest_hudbars"]
 	path = minetest_hudbars
-	url = http://repo.or.cz/minetest_hudbars.git
+	url = http://codeberg.org/Wuzzy/minetest_hudbars.git
 [submodule "minetest_worldedit"]
 	path = minetest_worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit
 [submodule "mob_horse"]
 	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse
+	url = https://codeberg.org/TenPlus1/mob_horse
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal
+	url = https://codeberg.org/TenPlus1/mobs_animal
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://notabug.org/TenPlus1/mobs_redo
+	url = https://codeberg.org/TenPlus1/mobs_redo
 [submodule "mobs_water"]
 	path = mobs_water
 	url = https://github.com/R-0ne/mobs_water
@@ -267,7 +267,7 @@
 	url = https://github.com/h-v-smacker/technic/
 [submodule "teleport_potion"]
 	path = teleport_potion
-	url = https://notabug.org/TenPlus1/teleport_potion
+	url = https://codeberg.org/TenPlus1/teleport_potion
 [submodule "textline"]
 	path = textline
 	url = https://github.com/gbl08ma/textline
