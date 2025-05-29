@@ -10,9 +10,6 @@
 [submodule "advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/Montandalar/advtrains_platform
-[submodule "animalworld_kangaroo"]
-	path = animalworld_kangaroo
-	url = https://github.com/Montandalar/animalworld_kangaroo
 [submodule "apartment"]
 	path = apartment
 	url = https://git.bananach.space/apartment.git
@@ -22,9 +19,6 @@
 [submodule "atm"]
 	path = atm
 	url = https://git.bananach.space/atm.git
-[submodule "australia"]
-	path = australia
-	url = https://github.com/Aussieforks/australia
 [submodule "auth_export"]
 	path = auth_export
 	url = https://git.bananach.space/auth_export.git
@@ -49,9 +43,6 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://gitlab.com/Felfa/bonemeal
-[submodule "bridger"]
-	path = bridger
-	url = https://github.com/v-rob/bridger
 [submodule "canned_food"]
 	path = canned_food
 	url = https://github.com/h-v-smacker/canned_food
@@ -106,9 +97,6 @@
 [submodule "ethereal"]
 	path = ethereal
 	url = https://gitlab.com/Felfa/ethereal
-[submodule "factory_bridges"]
-	path = factory_bridges
-	url = https://github.com/pandorabox-io/factory_bridges
 [submodule "farebox"]
 	path = farebox
 	url = http://git.linux-forks.de/farebox/
@@ -282,10 +270,10 @@
 	url = https://github.com/Montandalar/tnt
 [submodule "towercrane"]
 	path = towercrane
-	url = https://github.com/Montandalar/towercrane
+	url = https://github.com/erstazi/towercrane
 [submodule "trainblocks"]
 	path = trainblocks
-	url = https://github.com/maxxmodding/trainblocks_bc
+	url = https://github.com/C-C-Minetest-Server/trainblocks/
 [submodule "trash_can"]
 	path = trash_can
 	url = https://github.com/minetest-mods/trash_can.git
