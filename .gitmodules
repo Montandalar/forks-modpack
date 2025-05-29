@@ -160,6 +160,9 @@
 [submodule "mapfix"]
 	path = mapfix
 	url = https://github.com/minetest-mods/mapfix.git
+[submodule "maple"]
+	path = maple
+	url = https://github.com/h-v-smacker/maple
 [submodule "markers"]
 	path = markers
 	url = https://github.com/Montandalar/markers_gpcf.git
