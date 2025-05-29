@@ -1,15 +1,15 @@
-# AussieForks Modpack
+# Forks Modpack
 
 ## Introduction
 
-This is a modpack for [minetest game](https://github.com/minetest/minetest_game). It was directly based on the [mods](https://wiki.linux-forks.de/mediawiki/index.php/Blocks_and_Mods) used on the [LinuxForks minetest server](https://wiki.linux-forks.de/mediawiki/index.php/Main_Page), but this version contains some extra mods that Blockhead wanted for his own use and some updates to mods that LinuxForks has not updated themselves.
+This is a modpack for [minetest game](https://github.com/minetest/minetest_game). It was directly based on the [mods](https://wiki.linux-forks.de/mediawiki/index.php/Blocks_and_Mods) used on the [LinuxForks minetest server](https://wiki.linux-forks.de/mediawiki/index.php/Main_Page). Some prior versions contained personal taste additions by Blockhead, but these have 
 
-This modpack is largely the same as its LinuxForks origin and is likely to remain that way. As a long-time player of LinuxForks I mostly agree with their philosophies on things. I don't plan on adding basic\_materials, or moving away from technic. However, I do intend to maintain an Australian theme on top of the tech/realism basis.
+This modpack is meant to mirror linuxforks as best as I can manage, but it comes
+with no warranty and no release schedule
 
-Any reference to 'Forks modpack' below can be taken as a shorthand for 'AussieForks' modpack. 
 
 ## Installation
-The modpack is only supported for minetest version 5.5.1; I don't test it on earlier versions. The modpack was originally started in 5.3.0 though, so it might work for that version. No guarantees and no support though.
+The modpack is only supported for minetest version 5.6.1; I don't test it on earlier versions. The modpack was originally started in 5.3.0 though, so it might work for that version. No guarantees and no support though.
 
 In the spirit of LinuxForks, you will have to be somewhat technical to install this modpack in that *you will have to have git installed*. Theoretically I could create an archive file of the whole modpack without any git information but I haven't yet. Thankfully, using git will also mean that updating the modpack won't require you to download huge amounts of what is mostly the same data each time you update. Furthermore, you may want to play around with the source code of some of these mods and contribute back upstream, and then you would have to have git anyway :). git is your friend, trust me.
 
