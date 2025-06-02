@@ -1,3 +1,6 @@
+[submodule "advboats"]
+	path = advboats
+	url = https://github.com/Montandalar/advboats.git
 [submodule "advprofiler"]
 	path = advprofiler
 	url = https://git.bananach.space/advprofiler.git
@@ -28,6 +31,9 @@
 [submodule "banish"]
 	path = banish
 	url = https://git.bananach.space/banish.git
+[submodule "banisters"]
+	path = banisters
+	url = https://gitlab.com/Felfa/banisters
 [submodule "basic_trains"]
 	path = basic_trains
 	url = https://git.bananach.space/basic_trains.git
@@ -73,12 +79,9 @@
 [submodule "display_modpack"]
 	path = display_modpack
 	url = https://git.bananach.space/display_modpack.git
-[submodule "dlxtrains_modpack"]
-	path = dlxtrains_modpack
-	url = https://github.com/Marnack/DlxTrains_modpack
 [submodule "drawers"]
 	path = drawers
-	url = http://git.linux-forks.de/drawers/
+	url = http://github.com/minetest-mods/drawers
 [submodule "dumpnodes"]
 	path = dumpnodes
 	url = https://github.com/Montandalar/dumpnodes.git
@@ -97,6 +100,12 @@
 [submodule "ethereal"]
 	path = ethereal
 	url = https://gitlab.com/Felfa/ethereal
+[submodule "facade"]
+	path = facade
+	url = https://github.com/h-v-smacker/facade
+[submodule "fachwerk"]
+	path = fachwerk
+	url = https://github.com/jbruechert/fachwerk
 [submodule "farebox"]
 	path = farebox
 	url = http://git.linux-forks.de/farebox/
@@ -114,7 +123,7 @@
 	url = https://bitbucket.org/sorcerykid/formspecs.git
 [submodule "freezer"]
 	path = freezer
-	url = http://git.linux-forks.de/freezer/
+	url = https://github.com/h-v-smacker/freezer
 [submodule "gates"]
 	path = gates
 	url = https://bitbucket.org/kingarthursteam/gates.git
@@ -138,7 +147,7 @@
 	url = https://git.bananach.space/JR_E231series_modpack.git
 [submodule "kebab"]
 	path = kebab
-	url = https://github.com/Montandalar/gpcf_kebab.git
+	url = https://git.bananach.space/kebab.git/
 [submodule "lag_warning"]
 	path = lag_warning
 	url = https://github.com/Montandalar/lag_warning.git
@@ -166,12 +175,18 @@
 [submodule "markers"]
 	path = markers
 	url = https://github.com/Montandalar/markers_gpcf.git
+[submodule "marmor"]
+	path = marmor
+	url = https://github.com/Montandalar/och_noe_marmor
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
 [submodule "mesecons_ratelimiter"]
 	path = mesecons_ratelimiter
 	url = https://github.com/thomasrudin-mt/mesecons_ratelimiter
+[submodule "mfu"]
+	path = mfu
+	url = https://github.com/h-v-smacker/mfu
 [submodule "minetest_errata"]
 	path = minetest_errata
 	url = https://github.com/Montandalar/minetest_errata
@@ -189,7 +204,7 @@
 	url = https://codeberg.org/TenPlus1/mob_horse
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://codeberg.org/TenPlus1/mobs_animal
+	url = https://gitlab.com/erstazi/mobs_animal
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/TenPlus1/mobs_redo
@@ -207,13 +222,13 @@
 	url = https://github.com/minetest-mods/moreores
 [submodule "moretrains"]
 	path = moretrains
-	url = https://notabug.org/gpcf/minetest-moretrains
+	url = https://git.bananach.space/moretrains.git
 [submodule "my_arcade"]
 	path = my_arcade
 	url = https://github.com/Ferk/myArcade/
 [submodule "mymillwork"]
 	path = mymillwork
-	url = https://github.com/laza83/mymillwork
+	url = https://github.com/h-v-smacker/mymillwork
 [submodule "pathv7"]
 	path = pathv7
 	url = https://github.com/paramat/pathv7
@@ -250,12 +265,18 @@
 [submodule "smartshop"]
 	path = smartshop
 	url = https://git.bananach.space/smartshop.git/
+[submodule "some_more_trains"]
+	path = some_more_trains
+	url = https://github.com/APercy/some_more_trains
 [submodule "steel"]
 	path = steel
 	url = https://github.com/mt-mods/steel
 [submodule "technic"]
 	path = technic
 	url = https://github.com/h-v-smacker/technic/
+[submodule "technictrain"]
+	path = technictrain
+	url = https://git.bananach.space/technictrain.git/
 [submodule "teleport_potion"]
 	path = teleport_potion
 	url = https://codeberg.org/TenPlus1/teleport_potion
